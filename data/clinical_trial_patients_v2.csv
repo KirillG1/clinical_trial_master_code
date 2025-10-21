@@ -1,0 +1,1291 @@
+patient_id,ae,severity,age,sex,treatment
+P0003,Headache,Mild,48,Male,DrugB
+P0005,Abdominal pain,Moderate,74,Female,DrugA
+P0005,Rash,Mild,74,Female,DrugA
+P0005,Vomiting,Mild,74,Female,DrugA
+P0006,Vomiting,Severe,21,Female,DrugA
+P0006,Rash,Moderate,21,Female,DrugA
+P0006,Fever,Mild,21,Female,DrugA
+P0007,Hypertension,Moderate,37,Male,DrugB
+P0007,Diarrhea,Severe,37,Male,DrugB
+P0008,Cough,Moderate,30,Female,DrugA
+P0008,Fever,Mild,30,Female,DrugA
+P0008,Vomiting,Moderate,30,Female,DrugA
+P0009,Dizziness,Mild,50,Female,Placebo
+P0010,Headache,Mild,40,Male,DrugA
+P0011,Vomiting,Mild,74,Female,DrugA
+P0011,Fever,Severe,74,Female,DrugA
+P0011,Headache,Moderate,74,Female,DrugA
+P0014,Insomnia,Mild,32,Male,DrugA
+P0014,Abdominal pain,Mild,32,Male,DrugA
+P0015,Vomiting,Mild,51,Female,DrugA
+P0015,Headache,Mild,51,Female,DrugA
+P0016,Headache,Mild,58,Female,DrugA
+P0016,Anxiety,Mild,58,Female,DrugA
+P0016,Abdominal pain,Severe,58,Female,DrugA
+P0017,Rash,Mild,55,Female,DrugA
+P0017,Back pain,Moderate,55,Female,DrugA
+P0017,Headache,Mild,55,Female,DrugA
+P0019,Nausea,Mild,55,Female,DrugB
+P0019,Headache,Mild,55,Female,DrugB
+P0020,Anxiety,Moderate,65,Female,DrugA
+P0022,Insomnia,Mild,34,Female,DrugB
+P0022,Abdominal pain,Mild,34,Female,DrugB
+P0023,Hypertension,Moderate,18,Female,Placebo
+P0023,Constipation,Moderate,18,Female,Placebo
+P0025,Anxiety,Mild,21,Female,DrugB
+P0026,Dizziness,Mild,54,Female,Placebo
+P0026,Back pain,Moderate,54,Female,Placebo
+P0026,Headache,Mild,54,Female,Placebo
+P0026,Hypertension,Mild,54,Female,Placebo
+P0027,Fever,Moderate,43,Female,DrugA
+P0028,Diarrhea,Mild,35,Male,Placebo
+P0030,Dizziness,Mild,73,Male,DrugA
+P0031,Hypertension,Mild,29,Female,DrugB
+P0032,Fever,Mild,63,Female,DrugB
+P0033,Fatigue,Mild,18,Female,Placebo
+P0033,Headache,Mild,18,Female,Placebo
+P0034,Hypertension,Mild,46,Female,DrugA
+P0034,Back pain,Mild,46,Female,DrugA
+P0035,Headache,Moderate,51,Female,DrugA
+P0035,Insomnia,Severe,51,Female,DrugA
+P0036,Cough,Mild,27,Male,DrugA
+P0037,Fever,Moderate,45,Female,DrugB
+P0038,Constipation,Moderate,31,Male,Placebo
+P0039,Insomnia,Severe,69,Female,DrugA
+P0040,Abdominal pain,Mild,44,Female,Placebo
+P0042,Dizziness,Severe,60,Female,DrugB
+P0042,Constipation,Moderate,60,Female,DrugB
+P0043,Constipation,Mild,78,Male,DrugA
+P0044,Dizziness,Mild,54,Female,DrugB
+P0044,Nausea,Moderate,54,Female,DrugB
+P0046,Abdominal pain,Moderate,60,Male,DrugA
+P0047,Insomnia,Mild,33,Male,Placebo
+P0049,Vomiting,Moderate,55,Female,DrugB
+P0051,Cough,Mild,46,Male,DrugB
+P0052,Constipation,Mild,49,Male,DrugA
+P0053,Dizziness,Mild,70,Female,DrugB
+P0053,Vomiting,Moderate,70,Female,DrugB
+P0054,Fever,Moderate,49,Male,Placebo
+P0054,Headache,Moderate,49,Male,Placebo
+P0054,Vomiting,Severe,49,Male,Placebo
+P0055,Hypertension,Moderate,27,Female,DrugB
+P0055,Fever,Moderate,27,Female,DrugB
+P0055,Vomiting,Mild,27,Female,DrugB
+P0058,Nausea,Mild,70,Female,DrugB
+P0059,Abdominal pain,Mild,46,Female,DrugB
+P0059,Dizziness,Mild,46,Female,DrugB
+P0059,Fever,Mild,46,Female,DrugB
+P0060,Diarrhea,Mild,35,Female,DrugA
+P0061,Anxiety,Mild,73,Female,Placebo
+P0062,Anxiety,Mild,55,Male,Placebo
+P0063,Constipation,Mild,70,Female,DrugB
+P0065,Fatigue,Moderate,25,Female,DrugA
+P0065,Vomiting,Moderate,25,Female,DrugA
+P0066,Anxiety,Mild,56,Male,DrugA
+P0066,Fatigue,Severe,56,Male,DrugA
+P0067,Fever,Mild,58,Male,DrugA
+P0072,Back pain,Moderate,26,Female,DrugB
+P0074,Cough,Moderate,33,Female,DrugB
+P0074,Vomiting,Mild,33,Female,DrugB
+P0075,Cough,Mild,43,Male,DrugB
+P0076,Vomiting,Mild,57,Male,DrugB
+P0078,Anxiety,Moderate,79,Female,DrugB
+P0079,Diarrhea,Moderate,36,Male,Placebo
+P0080,Abdominal pain,Mild,27,Male,DrugA
+P0080,Fever,Mild,27,Male,DrugA
+P0080,Rash,Moderate,27,Male,DrugA
+P0081,Constipation,Severe,50,Male,DrugA
+P0081,Rash,Moderate,50,Male,DrugA
+P0084,Back pain,Mild,54,Female,Placebo
+P0085,Fever,Mild,50,Female,DrugA
+P0087,Abdominal pain,Moderate,52,Male,DrugA
+P0087,Dizziness,Mild,52,Male,DrugA
+P0088,Diarrhea,Mild,34,Female,Placebo
+P0088,Dizziness,Mild,34,Female,Placebo
+P0089,Nausea,Mild,67,Female,DrugA
+P0091,Fatigue,Severe,40,Female,DrugB
+P0091,Diarrhea,Moderate,40,Female,DrugB
+P0091,Insomnia,Mild,40,Female,DrugB
+P0092,Constipation,Moderate,40,Female,DrugA
+P0092,Back pain,Mild,40,Female,DrugA
+P0092,Fever,Mild,40,Female,DrugA
+P0092,Abdominal pain,Moderate,40,Female,DrugA
+P0094,Abdominal pain,Moderate,46,Male,DrugB
+P0096,Rash,Mild,41,Male,DrugB
+P0096,Diarrhea,Moderate,41,Male,DrugB
+P0096,Nausea,Severe,41,Male,DrugB
+P0097,Insomnia,Moderate,69,Female,DrugB
+P0098,Vomiting,Moderate,56,Male,DrugB
+P0098,Insomnia,Moderate,56,Male,DrugB
+P0099,Hypertension,Mild,29,Male,DrugA
+P0099,Insomnia,Moderate,29,Male,DrugA
+P0100,Nausea,Mild,21,Male,DrugA
+P0101,Anxiety,Mild,77,Male,DrugB
+P0101,Hypertension,Severe,77,Male,DrugB
+P0102,Cough,Moderate,48,Female,DrugB
+P0103,Hypertension,Mild,22,Male,Placebo
+P0103,Diarrhea,Moderate,22,Male,Placebo
+P0105,Nausea,Moderate,64,Male,DrugB
+P0106,Nausea,Mild,18,Female,DrugA
+P0106,Abdominal pain,Mild,18,Female,DrugA
+P0107,Hypertension,Mild,78,Female,DrugB
+P0108,Vomiting,Mild,54,Male,DrugB
+P0109,Cough,Severe,75,Male,DrugB
+P0111,Fatigue,Mild,39,Male,DrugA
+P0111,Diarrhea,Mild,39,Male,DrugA
+P0111,Hypertension,Mild,39,Male,DrugA
+P0111,Insomnia,Mild,39,Male,DrugA
+P0113,Nausea,Mild,68,Male,DrugA
+P0114,Back pain,Moderate,18,Female,DrugA
+P0115,Constipation,Mild,18,Male,Placebo
+P0116,Hypertension,Moderate,31,Female,DrugA
+P0116,Insomnia,Mild,31,Female,DrugA
+P0116,Diarrhea,Moderate,31,Female,DrugA
+P0117,Headache,Moderate,19,Male,Placebo
+P0117,Cough,Moderate,19,Male,Placebo
+P0117,Fatigue,Moderate,19,Male,Placebo
+P0118,Headache,Mild,72,Female,DrugA
+P0119,Fatigue,Mild,73,Male,DrugA
+P0119,Rash,Mild,73,Male,DrugA
+P0120,Vomiting,Mild,57,Male,DrugB
+P0121,Fever,Moderate,43,Male,Placebo
+P0124,Constipation,Mild,28,Male,DrugB
+P0124,Diarrhea,Mild,28,Male,DrugB
+P0124,Back pain,Mild,28,Male,DrugB
+P0124,Anxiety,Moderate,28,Male,DrugB
+P0125,Fatigue,Mild,46,Female,DrugA
+P0131,Fatigue,Mild,66,Male,DrugA
+P0131,Abdominal pain,Mild,66,Male,DrugA
+P0138,Constipation,Mild,42,Male,DrugA
+P0139,Hypertension,Moderate,25,Female,DrugA
+P0139,Back pain,Moderate,25,Female,DrugA
+P0140,Abdominal pain,Severe,42,Male,DrugB
+P0142,Diarrhea,Mild,71,Male,DrugB
+P0144,Cough,Mild,50,Male,DrugB
+P0144,Hypertension,Moderate,50,Male,DrugB
+P0144,Vomiting,Mild,50,Male,DrugB
+P0144,Dizziness,Moderate,50,Male,DrugB
+P0145,Nausea,Moderate,33,Male,DrugB
+P0145,Back pain,Mild,33,Male,DrugB
+P0145,Dizziness,Severe,33,Male,DrugB
+P0147,Fatigue,Severe,47,Female,DrugA
+P0148,Constipation,Mild,32,Female,DrugA
+P0148,Fever,Mild,32,Female,DrugA
+P0149,Fatigue,Moderate,26,Male,Placebo
+P0150,Insomnia,Mild,55,Female,DrugB
+P0150,Abdominal pain,Moderate,55,Female,DrugB
+P0150,Back pain,Severe,55,Female,DrugB
+P0151,Anxiety,Moderate,58,Female,DrugA
+P0151,Hypertension,Mild,58,Female,DrugA
+P0151,Rash,Mild,58,Female,DrugA
+P0153,Constipation,Mild,27,Male,DrugB
+P0155,Hypertension,Mild,29,Female,DrugB
+P0156,Dizziness,Moderate,46,Male,DrugB
+P0156,Vomiting,Mild,46,Male,DrugB
+P0157,Abdominal pain,Mild,31,Female,DrugA
+P0157,Rash,Mild,31,Female,DrugA
+P0159,Constipation,Mild,36,Female,Placebo
+P0160,Hypertension,Mild,25,Male,DrugA
+P0160,Headache,Moderate,25,Male,DrugA
+P0161,Hypertension,Mild,47,Female,Placebo
+P0162,Diarrhea,Moderate,61,Male,DrugB
+P0162,Fever,Mild,61,Male,DrugB
+P0163,Fever,Mild,59,Male,DrugA
+P0163,Abdominal pain,Moderate,59,Male,DrugA
+P0164,Headache,Moderate,35,Female,Placebo
+P0164,Abdominal pain,Moderate,35,Female,Placebo
+P0165,Abdominal pain,Mild,69,Female,Placebo
+P0165,Back pain,Mild,69,Female,Placebo
+P0165,Diarrhea,Mild,69,Female,Placebo
+P0166,Diarrhea,Mild,61,Male,Placebo
+P0166,Headache,Mild,61,Male,Placebo
+P0166,Back pain,Severe,61,Male,Placebo
+P0167,Diarrhea,Mild,56,Female,DrugA
+P0168,Cough,Severe,54,Male,DrugB
+P0169,Constipation,Mild,24,Female,DrugB
+P0171,Vomiting,Mild,69,Female,DrugB
+P0172,Dizziness,Mild,42,Male,DrugB
+P0173,Cough,Severe,71,Female,DrugA
+P0174,Hypertension,Mild,63,Male,DrugA
+P0175,Rash,Mild,28,Female,Placebo
+P0176,Anxiety,Mild,72,Male,DrugB
+P0177,Anxiety,Mild,77,Female,DrugB
+P0177,Nausea,Moderate,77,Female,DrugB
+P0177,Fatigue,Mild,77,Female,DrugB
+P0178,Nausea,Moderate,77,Male,DrugB
+P0179,Vomiting,Moderate,60,Female,DrugA
+P0179,Rash,Severe,60,Female,DrugA
+P0180,Fatigue,Moderate,69,Male,DrugA
+P0182,Rash,Mild,51,Female,Placebo
+P0182,Back pain,Mild,51,Female,Placebo
+P0182,Dizziness,Mild,51,Female,Placebo
+P0183,Dizziness,Mild,31,Male,DrugA
+P0185,Cough,Mild,57,Male,DrugB
+P0185,Insomnia,Moderate,57,Male,DrugB
+P0187,Fever,Severe,24,Female,DrugA
+P0188,Hypertension,Mild,57,Female,Placebo
+P0190,Diarrhea,Moderate,42,Female,DrugB
+P0191,Back pain,Moderate,45,Female,DrugA
+P0192,Vomiting,Moderate,39,Female,Placebo
+P0192,Insomnia,Mild,39,Female,Placebo
+P0193,Constipation,Mild,25,Male,DrugA
+P0194,Abdominal pain,Mild,46,Male,DrugB
+P0195,Vomiting,Mild,26,Male,Placebo
+P0195,Cough,Moderate,26,Male,Placebo
+P0195,Back pain,Moderate,26,Male,Placebo
+P0196,Diarrhea,Moderate,33,Female,DrugA
+P0196,Cough,Mild,33,Female,DrugA
+P0197,Back pain,Severe,31,Male,DrugA
+P0197,Headache,Moderate,31,Male,DrugA
+P0198,Anxiety,Moderate,20,Female,DrugA
+P0198,Insomnia,Mild,20,Female,DrugA
+P0199,Back pain,Moderate,43,Female,DrugB
+P0200,Fever,Mild,40,Male,Placebo
+P0200,Headache,Mild,40,Male,Placebo
+P0201,Constipation,Mild,22,Male,DrugA
+P0202,Dizziness,Mild,31,Male,DrugA
+P0203,Back pain,Mild,53,Male,DrugA
+P0203,Insomnia,Moderate,53,Male,DrugA
+P0205,Dizziness,Mild,72,Female,Placebo
+P0205,Constipation,Mild,72,Female,Placebo
+P0206,Headache,Moderate,77,Male,Placebo
+P0207,Hypertension,Moderate,30,Female,Placebo
+P0207,Anxiety,Mild,30,Female,Placebo
+P0208,Abdominal pain,Moderate,21,Female,DrugB
+P0208,Constipation,Moderate,21,Female,DrugB
+P0209,Headache,Mild,34,Female,Placebo
+P0209,Fatigue,Mild,34,Female,Placebo
+P0210,Dizziness,Moderate,79,Female,DrugB
+P0211,Fatigue,Mild,70,Female,Placebo
+P0211,Nausea,Moderate,70,Female,Placebo
+P0213,Anxiety,Mild,22,Male,DrugB
+P0214,Constipation,Mild,62,Male,Placebo
+P0215,Vomiting,Mild,56,Male,DrugA
+P0215,Constipation,Mild,56,Male,DrugA
+P0216,Fatigue,Moderate,54,Male,Placebo
+P0218,Fever,Severe,54,Male,Placebo
+P0218,Constipation,Mild,54,Male,Placebo
+P0219,Fatigue,Mild,61,Female,Placebo
+P0219,Rash,Mild,61,Female,Placebo
+P0220,Diarrhea,Mild,63,Male,DrugA
+P0220,Cough,Moderate,63,Male,DrugA
+P0220,Back pain,Moderate,63,Male,DrugA
+P0221,Nausea,Mild,73,Male,DrugA
+P0223,Nausea,Moderate,60,Female,DrugA
+P0223,Cough,Moderate,60,Female,DrugA
+P0223,Headache,Mild,60,Female,DrugA
+P0224,Insomnia,Mild,27,Male,DrugB
+P0224,Fatigue,Severe,27,Male,DrugB
+P0225,Abdominal pain,Moderate,42,Male,DrugA
+P0225,Insomnia,Severe,42,Male,DrugA
+P0225,Dizziness,Mild,42,Male,DrugA
+P0226,Dizziness,Moderate,58,Female,DrugA
+P0227,Back pain,Mild,70,Female,DrugB
+P0228,Vomiting,Moderate,31,Female,DrugA
+P0228,Anxiety,Mild,31,Female,DrugA
+P0229,Vomiting,Mild,75,Female,DrugA
+P0229,Cough,Mild,75,Female,DrugA
+P0229,Back pain,Mild,75,Female,DrugA
+P0229,Constipation,Mild,75,Female,DrugA
+P0231,Cough,Mild,41,Female,DrugA
+P0233,Constipation,Mild,79,Female,DrugA
+P0234,Hypertension,Moderate,39,Male,DrugB
+P0237,Anxiety,Mild,76,Female,Placebo
+P0237,Constipation,Mild,76,Female,Placebo
+P0238,Insomnia,Moderate,77,Female,DrugB
+P0238,Rash,Mild,77,Female,DrugB
+P0239,Anxiety,Moderate,53,Female,DrugB
+P0239,Hypertension,Mild,53,Female,DrugB
+P0239,Dizziness,Mild,53,Female,DrugB
+P0240,Fatigue,Mild,65,Female,DrugA
+P0241,Abdominal pain,Moderate,55,Male,DrugA
+P0243,Cough,Mild,47,Male,Placebo
+P0243,Nausea,Moderate,47,Male,Placebo
+P0244,Fatigue,Mild,76,Female,DrugA
+P0244,Rash,Mild,76,Female,DrugA
+P0244,Cough,Mild,76,Female,DrugA
+P0244,Back pain,Mild,76,Female,DrugA
+P0245,Nausea,Moderate,42,Female,DrugB
+P0245,Rash,Mild,42,Female,DrugB
+P0245,Abdominal pain,Mild,42,Female,DrugB
+P0245,Vomiting,Mild,42,Female,DrugB
+P0246,Diarrhea,Mild,26,Male,DrugB
+P0247,Anxiety,Moderate,31,Female,Placebo
+P0247,Abdominal pain,Mild,31,Female,Placebo
+P0248,Abdominal pain,Mild,58,Male,Placebo
+P0249,Vomiting,Mild,52,Female,DrugA
+P0250,Fatigue,Moderate,64,Male,DrugB
+P0252,Constipation,Moderate,78,Female,DrugA
+P0253,Fever,Mild,52,Male,DrugB
+P0253,Diarrhea,Mild,52,Male,DrugB
+P0253,Cough,Mild,52,Male,DrugB
+P0253,Hypertension,Severe,52,Male,DrugB
+P0257,Hypertension,Mild,42,Female,Placebo
+P0258,Anxiety,Mild,53,Female,DrugA
+P0259,Vomiting,Moderate,45,Female,DrugA
+P0259,Nausea,Mild,45,Female,DrugA
+P0259,Back pain,Moderate,45,Female,DrugA
+P0261,Diarrhea,Mild,51,Female,DrugB
+P0262,Dizziness,Mild,28,Male,DrugA
+P0263,Fatigue,Moderate,38,Male,Placebo
+P0264,Constipation,Mild,61,Male,DrugA
+P0264,Nausea,Moderate,61,Male,DrugA
+P0265,Constipation,Moderate,41,Female,Placebo
+P0265,Rash,Mild,41,Female,Placebo
+P0266,Fatigue,Mild,64,Male,DrugB
+P0267,Cough,Moderate,65,Male,DrugA
+P0267,Hypertension,Mild,65,Male,DrugA
+P0267,Anxiety,Mild,65,Male,DrugA
+P0268,Back pain,Moderate,30,Female,DrugB
+P0269,Insomnia,Mild,59,Female,DrugA
+P0269,Constipation,Severe,59,Female,DrugA
+P0269,Nausea,Mild,59,Female,DrugA
+P0271,Vomiting,Mild,38,Female,DrugB
+P0271,Back pain,Mild,38,Female,DrugB
+P0272,Abdominal pain,Moderate,19,Female,Placebo
+P0273,Hypertension,Mild,70,Female,Placebo
+P0274,Fever,Mild,64,Male,Placebo
+P0274,Dizziness,Moderate,64,Male,Placebo
+P0275,Insomnia,Moderate,49,Male,Placebo
+P0276,Rash,Mild,78,Female,DrugA
+P0276,Fatigue,Moderate,78,Female,DrugA
+P0277,Cough,Severe,51,Female,DrugB
+P0280,Fatigue,Severe,62,Male,Placebo
+P0281,Fever,Mild,54,Female,Placebo
+P0282,Insomnia,Moderate,44,Female,DrugA
+P0283,Diarrhea,Moderate,28,Female,DrugA
+P0284,Vomiting,Mild,66,Female,DrugA
+P0289,Fatigue,Mild,57,Female,DrugA
+P0289,Constipation,Moderate,57,Female,DrugA
+P0291,Hypertension,Mild,42,Male,Placebo
+P0291,Fatigue,Mild,42,Male,Placebo
+P0291,Nausea,Mild,42,Male,Placebo
+P0293,Cough,Moderate,38,Female,DrugB
+P0293,Hypertension,Mild,38,Female,DrugB
+P0293,Abdominal pain,Moderate,38,Female,DrugB
+P0294,Vomiting,Moderate,22,Male,Placebo
+P0295,Fatigue,Moderate,25,Female,DrugA
+P0297,Fatigue,Moderate,29,Female,DrugA
+P0297,Nausea,Mild,29,Female,DrugA
+P0298,Cough,Mild,30,Female,DrugB
+P0298,Hypertension,Moderate,30,Female,DrugB
+P0299,Dizziness,Mild,66,Male,Placebo
+P0300,Anxiety,Mild,70,Male,DrugB
+P0302,Hypertension,Mild,76,Female,DrugB
+P0302,Rash,Mild,76,Female,DrugB
+P0303,Back pain,Moderate,66,Female,Placebo
+P0305,Abdominal pain,Mild,21,Female,Placebo
+P0305,Anxiety,Mild,21,Female,Placebo
+P0305,Headache,Mild,21,Female,Placebo
+P0305,Cough,Severe,21,Female,Placebo
+P0307,Diarrhea,Mild,28,Male,DrugB
+P0307,Back pain,Mild,28,Male,DrugB
+P0308,Anxiety,Mild,59,Female,DrugB
+P0308,Constipation,Moderate,59,Female,DrugB
+P0308,Headache,Mild,59,Female,DrugB
+P0310,Abdominal pain,Moderate,60,Male,Placebo
+P0310,Diarrhea,Moderate,60,Male,Placebo
+P0312,Cough,Severe,68,Female,DrugA
+P0313,Back pain,Mild,79,Female,DrugA
+P0314,Abdominal pain,Mild,21,Male,Placebo
+P0315,Fatigue,Moderate,59,Female,DrugB
+P0318,Hypertension,Mild,63,Female,DrugB
+P0318,Insomnia,Mild,63,Female,DrugB
+P0319,Insomnia,Mild,33,Female,DrugB
+P0319,Hypertension,Mild,33,Female,DrugB
+P0320,Diarrhea,Mild,33,Male,DrugA
+P0322,Rash,Mild,61,Female,DrugB
+P0323,Headache,Mild,38,Male,DrugA
+P0323,Dizziness,Mild,38,Male,DrugA
+P0323,Vomiting,Mild,38,Male,DrugA
+P0323,Fever,Mild,38,Male,DrugA
+P0324,Insomnia,Mild,40,Male,DrugB
+P0324,Headache,Mild,40,Male,DrugB
+P0325,Constipation,Mild,50,Male,Placebo
+P0326,Hypertension,Moderate,70,Female,DrugB
+P0326,Fever,Mild,70,Female,DrugB
+P0326,Insomnia,Moderate,70,Female,DrugB
+P0327,Abdominal pain,Mild,23,Male,Placebo
+P0328,Diarrhea,Mild,63,Male,Placebo
+P0329,Fatigue,Mild,52,Male,DrugA
+P0329,Cough,Moderate,52,Male,DrugA
+P0329,Anxiety,Moderate,52,Male,DrugA
+P0329,Nausea,Mild,52,Male,DrugA
+P0330,Anxiety,Mild,74,Female,Placebo
+P0331,Cough,Moderate,31,Female,DrugA
+P0332,Back pain,Mild,50,Female,DrugA
+P0332,Vomiting,Mild,50,Female,DrugA
+P0334,Anxiety,Moderate,68,Female,Placebo
+P0334,Insomnia,Severe,68,Female,Placebo
+P0335,Hypertension,Moderate,60,Male,DrugB
+P0335,Vomiting,Mild,60,Male,DrugB
+P0335,Nausea,Mild,60,Male,DrugB
+P0336,Nausea,Moderate,40,Female,DrugA
+P0336,Dizziness,Mild,40,Female,DrugA
+P0338,Diarrhea,Mild,25,Male,DrugB
+P0338,Anxiety,Mild,25,Male,DrugB
+P0339,Diarrhea,Mild,37,Male,DrugA
+P0339,Cough,Moderate,37,Male,DrugA
+P0340,Rash,Moderate,57,Male,Placebo
+P0340,Anxiety,Mild,57,Male,Placebo
+P0340,Fever,Mild,57,Male,Placebo
+P0340,Abdominal pain,Severe,57,Male,Placebo
+P0341,Vomiting,Moderate,49,Male,DrugA
+P0341,Constipation,Severe,49,Male,DrugA
+P0342,Vomiting,Mild,31,Female,DrugB
+P0342,Hypertension,Mild,31,Female,DrugB
+P0343,Diarrhea,Mild,19,Male,Placebo
+P0343,Nausea,Mild,19,Male,Placebo
+P0343,Vomiting,Severe,19,Male,Placebo
+P0345,Nausea,Mild,53,Female,DrugB
+P0345,Dizziness,Mild,53,Female,DrugB
+P0345,Vomiting,Mild,53,Female,DrugB
+P0346,Dizziness,Moderate,20,Male,Placebo
+P0346,Diarrhea,Mild,20,Male,Placebo
+P0346,Cough,Mild,20,Male,Placebo
+P0347,Back pain,Mild,55,Male,Placebo
+P0347,Anxiety,Mild,55,Male,Placebo
+P0347,Vomiting,Moderate,55,Male,Placebo
+P0349,Cough,Severe,42,Female,Placebo
+P0350,Back pain,Mild,71,Male,DrugA
+P0350,Insomnia,Mild,71,Male,DrugA
+P0353,Insomnia,Mild,73,Female,DrugB
+P0354,Headache,Moderate,26,Male,DrugA
+P0354,Nausea,Moderate,26,Male,DrugA
+P0354,Fever,Severe,26,Male,DrugA
+P0354,Diarrhea,Moderate,26,Male,DrugA
+P0355,Anxiety,Mild,48,Female,DrugA
+P0355,Fatigue,Moderate,48,Female,DrugA
+P0356,Hypertension,Severe,54,Male,DrugA
+P0356,Vomiting,Mild,54,Male,DrugA
+P0357,Headache,Mild,25,Female,DrugB
+P0358,Dizziness,Moderate,28,Female,DrugB
+P0359,Vomiting,Mild,78,Female,DrugA
+P0359,Fatigue,Moderate,78,Female,DrugA
+P0359,Anxiety,Mild,78,Female,DrugA
+P0360,Vomiting,Mild,60,Male,DrugA
+P0360,Headache,Severe,60,Male,DrugA
+P0361,Rash,Mild,30,Male,DrugB
+P0362,Hypertension,Mild,60,Female,DrugA
+P0363,Cough,Mild,66,Male,Placebo
+P0363,Abdominal pain,Moderate,66,Male,Placebo
+P0363,Vomiting,Mild,66,Male,Placebo
+P0364,Back pain,Severe,53,Female,DrugB
+P0364,Vomiting,Mild,53,Female,DrugB
+P0364,Fatigue,Mild,53,Female,DrugB
+P0364,Cough,Moderate,53,Female,DrugB
+P0365,Insomnia,Mild,35,Male,Placebo
+P0366,Vomiting,Mild,30,Male,DrugB
+P0368,Anxiety,Mild,57,Female,DrugB
+P0369,Anxiety,Mild,38,Female,DrugA
+P0369,Back pain,Mild,38,Female,DrugA
+P0369,Headache,Mild,38,Female,DrugA
+P0370,Abdominal pain,Moderate,78,Female,Placebo
+P0370,Headache,Mild,78,Female,Placebo
+P0370,Cough,Mild,78,Female,Placebo
+P0370,Fever,Mild,78,Female,Placebo
+P0371,Constipation,Mild,70,Female,DrugB
+P0372,Rash,Mild,29,Male,Placebo
+P0372,Nausea,Mild,29,Male,Placebo
+P0372,Dizziness,Moderate,29,Male,Placebo
+P0373,Fever,Mild,60,Female,DrugA
+P0374,Dizziness,Severe,44,Male,Placebo
+P0374,Back pain,Moderate,44,Male,Placebo
+P0374,Nausea,Severe,44,Male,Placebo
+P0375,Dizziness,Severe,56,Male,Placebo
+P0375,Abdominal pain,Mild,56,Male,Placebo
+P0375,Insomnia,Moderate,56,Male,Placebo
+P0377,Nausea,Moderate,36,Male,Placebo
+P0379,Back pain,Moderate,56,Male,Placebo
+P0380,Diarrhea,Moderate,56,Male,DrugB
+P0381,Dizziness,Moderate,35,Male,DrugA
+P0381,Insomnia,Moderate,35,Male,DrugA
+P0381,Nausea,Moderate,35,Male,DrugA
+P0381,Headache,Mild,35,Male,DrugA
+P0382,Back pain,Mild,52,Female,Placebo
+P0382,Dizziness,Mild,52,Female,Placebo
+P0383,Back pain,Moderate,69,Female,DrugA
+P0383,Constipation,Moderate,69,Female,DrugA
+P0383,Rash,Mild,69,Female,DrugA
+P0387,Dizziness,Mild,24,Female,Placebo
+P0388,Insomnia,Mild,37,Male,DrugB
+P0388,Dizziness,Mild,37,Male,DrugB
+P0389,Dizziness,Mild,77,Female,Placebo
+P0390,Dizziness,Mild,62,Female,DrugB
+P0390,Abdominal pain,Mild,62,Female,DrugB
+P0391,Cough,Mild,72,Male,DrugB
+P0394,Cough,Mild,32,Female,DrugA
+P0394,Nausea,Mild,32,Female,DrugA
+P0395,Back pain,Mild,47,Female,DrugB
+P0395,Nausea,Moderate,47,Female,DrugB
+P0396,Fatigue,Mild,66,Female,Placebo
+P0396,Cough,Mild,66,Female,Placebo
+P0397,Diarrhea,Mild,33,Female,DrugB
+P0397,Abdominal pain,Moderate,33,Female,DrugB
+P0398,Cough,Moderate,55,Female,Placebo
+P0398,Diarrhea,Severe,55,Female,Placebo
+P0399,Vomiting,Mild,31,Male,DrugB
+P0400,Rash,Moderate,27,Male,DrugA
+P0401,Insomnia,Mild,64,Female,DrugB
+P0404,Nausea,Mild,46,Male,Placebo
+P0405,Fatigue,Mild,59,Male,DrugA
+P0406,Anxiety,Mild,41,Female,Placebo
+P0407,Insomnia,Severe,34,Male,DrugB
+P0407,Vomiting,Mild,34,Male,DrugB
+P0407,Fever,Mild,34,Male,DrugB
+P0409,Back pain,Mild,37,Female,DrugB
+P0411,Back pain,Mild,45,Female,Placebo
+P0413,Hypertension,Severe,71,Male,Placebo
+P0414,Constipation,Mild,19,Male,Placebo
+P0415,Diarrhea,Mild,20,Male,Placebo
+P0416,Fatigue,Mild,26,Female,Placebo
+P0417,Fatigue,Mild,66,Female,DrugA
+P0419,Headache,Mild,74,Female,Placebo
+P0421,Fatigue,Mild,21,Male,Placebo
+P0425,Headache,Mild,66,Male,DrugB
+P0426,Diarrhea,Moderate,59,Male,DrugA
+P0427,Back pain,Mild,38,Female,DrugB
+P0428,Nausea,Severe,25,Female,DrugB
+P0430,Nausea,Moderate,47,Male,Placebo
+P0430,Constipation,Mild,47,Male,Placebo
+P0430,Headache,Moderate,47,Male,Placebo
+P0431,Diarrhea,Mild,31,Male,DrugB
+P0431,Cough,Mild,31,Male,DrugB
+P0432,Anxiety,Mild,39,Female,Placebo
+P0432,Vomiting,Mild,39,Female,Placebo
+P0432,Cough,Mild,39,Female,Placebo
+P0433,Fever,Mild,77,Male,DrugB
+P0433,Cough,Mild,77,Male,DrugB
+P0433,Insomnia,Mild,77,Male,DrugB
+P0435,Headache,Moderate,65,Female,DrugB
+P0435,Abdominal pain,Mild,65,Female,DrugB
+P0436,Abdominal pain,Mild,31,Male,Placebo
+P0437,Back pain,Mild,42,Male,DrugA
+P0438,Fever,Mild,70,Male,DrugA
+P0439,Insomnia,Moderate,55,Female,DrugA
+P0439,Diarrhea,Mild,55,Female,DrugA
+P0439,Headache,Mild,55,Female,DrugA
+P0440,Anxiety,Mild,27,Female,Placebo
+P0441,Fever,Severe,26,Male,DrugA
+P0441,Headache,Moderate,26,Male,DrugA
+P0442,Constipation,Moderate,77,Male,Placebo
+P0443,Constipation,Severe,31,Male,Placebo
+P0444,Headache,Severe,61,Male,DrugA
+P0444,Anxiety,Mild,61,Male,DrugA
+P0445,Vomiting,Mild,63,Male,DrugA
+P0445,Insomnia,Mild,63,Male,DrugA
+P0445,Headache,Mild,63,Male,DrugA
+P0446,Dizziness,Mild,60,Female,DrugB
+P0447,Fever,Mild,58,Male,DrugA
+P0447,Hypertension,Moderate,58,Male,DrugA
+P0447,Nausea,Mild,58,Male,DrugA
+P0449,Nausea,Mild,77,Female,DrugA
+P0451,Hypertension,Mild,18,Female,Placebo
+P0453,Insomnia,Mild,64,Male,Placebo
+P0455,Abdominal pain,Moderate,30,Male,Placebo
+P0458,Insomnia,Severe,31,Female,DrugA
+P0459,Fever,Severe,27,Male,DrugB
+P0460,Cough,Moderate,74,Male,DrugB
+P0461,Dizziness,Mild,69,Male,DrugB
+P0461,Nausea,Mild,69,Male,DrugB
+P0462,Hypertension,Mild,42,Male,Placebo
+P0462,Dizziness,Mild,42,Male,Placebo
+P0462,Anxiety,Mild,42,Male,Placebo
+P0462,Insomnia,Moderate,42,Male,Placebo
+P0463,Cough,Moderate,60,Female,DrugA
+P0464,Diarrhea,Severe,67,Male,DrugB
+P0465,Fatigue,Moderate,45,Male,Placebo
+P0465,Back pain,Mild,45,Male,Placebo
+P0466,Constipation,Mild,65,Female,DrugA
+P0466,Fatigue,Moderate,65,Female,DrugA
+P0467,Rash,Mild,62,Female,Placebo
+P0467,Anxiety,Mild,62,Female,Placebo
+P0469,Anxiety,Mild,72,Male,Placebo
+P0470,Fever,Mild,79,Male,DrugA
+P0472,Anxiety,Mild,44,Female,DrugB
+P0473,Constipation,Mild,76,Female,DrugB
+P0473,Anxiety,Mild,76,Female,DrugB
+P0474,Rash,Mild,45,Female,DrugA
+P0475,Constipation,Mild,45,Female,DrugA
+P0475,Fever,Mild,45,Female,DrugA
+P0475,Diarrhea,Moderate,45,Female,DrugA
+P0476,Vomiting,Moderate,73,Female,DrugB
+P0478,Insomnia,Severe,61,Female,DrugA
+P0478,Diarrhea,Mild,61,Female,DrugA
+P0478,Anxiety,Mild,61,Female,DrugA
+P0478,Constipation,Mild,61,Female,DrugA
+P0479,Back pain,Mild,70,Female,Placebo
+P0479,Vomiting,Severe,70,Female,Placebo
+P0480,Diarrhea,Moderate,69,Female,DrugA
+P0481,Constipation,Mild,34,Male,DrugA
+P0482,Abdominal pain,Mild,74,Female,DrugA
+P0483,Back pain,Mild,67,Male,Placebo
+P0483,Hypertension,Mild,67,Male,Placebo
+P0484,Constipation,Moderate,32,Female,DrugA
+P0484,Cough,Moderate,32,Female,DrugA
+P0485,Abdominal pain,Moderate,77,Female,DrugA
+P0486,Constipation,Moderate,32,Female,DrugA
+P0487,Rash,Moderate,68,Male,DrugB
+P0490,Constipation,Moderate,26,Male,DrugB
+P0492,Dizziness,Mild,45,Male,DrugB
+P0493,Diarrhea,Mild,49,Female,DrugA
+P0493,Insomnia,Mild,49,Female,DrugA
+P0493,Rash,Moderate,49,Female,DrugA
+P0493,Fatigue,Severe,49,Female,DrugA
+P0495,Insomnia,Mild,59,Female,DrugA
+P0495,Nausea,Moderate,59,Female,DrugA
+P0495,Cough,Mild,59,Female,DrugA
+P0495,Headache,Mild,59,Female,DrugA
+P0496,Constipation,Severe,68,Female,DrugA
+P0497,Constipation,Mild,61,Female,DrugA
+P0497,Back pain,Mild,61,Female,DrugA
+P0497,Abdominal pain,Mild,61,Female,DrugA
+P0498,Insomnia,Severe,72,Male,DrugA
+P0500,Cough,Mild,64,Female,DrugA
+P0500,Vomiting,Moderate,64,Female,DrugA
+P0500,Nausea,Mild,64,Female,DrugA
+P0501,Constipation,Mild,65,Male,DrugB
+P0502,Fever,Mild,31,Female,DrugA
+P0502,Fatigue,Moderate,31,Female,DrugA
+P0503,Headache,Severe,32,Female,DrugA
+P0503,Fatigue,Mild,32,Female,DrugA
+P0504,Cough,Mild,55,Male,Placebo
+P0505,Rash,Mild,51,Male,Placebo
+P0509,Diarrhea,Moderate,23,Female,DrugB
+P0509,Fever,Severe,23,Female,DrugB
+P0509,Hypertension,Mild,23,Female,DrugB
+P0510,Abdominal pain,Severe,62,Female,Placebo
+P0510,Fatigue,Mild,62,Female,Placebo
+P0510,Headache,Mild,62,Female,Placebo
+P0511,Dizziness,Mild,54,Male,DrugB
+P0512,Abdominal pain,Mild,77,Male,Placebo
+P0512,Insomnia,Severe,77,Male,Placebo
+P0512,Anxiety,Severe,77,Male,Placebo
+P0513,Anxiety,Mild,65,Female,DrugB
+P0513,Cough,Mild,65,Female,DrugB
+P0514,Fever,Moderate,36,Female,Placebo
+P0514,Anxiety,Mild,36,Female,Placebo
+P0516,Insomnia,Moderate,79,Female,Placebo
+P0516,Cough,Moderate,79,Female,Placebo
+P0517,Abdominal pain,Mild,35,Female,DrugB
+P0517,Anxiety,Mild,35,Female,DrugB
+P0518,Abdominal pain,Severe,59,Female,DrugB
+P0520,Insomnia,Mild,46,Female,DrugB
+P0521,Abdominal pain,Moderate,26,Male,Placebo
+P0521,Nausea,Moderate,26,Male,Placebo
+P0521,Dizziness,Mild,26,Male,Placebo
+P0524,Dizziness,Mild,47,Female,DrugA
+P0525,Insomnia,Mild,74,Female,DrugA
+P0525,Rash,Mild,74,Female,DrugA
+P0526,Constipation,Mild,60,Female,DrugB
+P0527,Vomiting,Moderate,61,Male,Placebo
+P0527,Anxiety,Mild,61,Male,Placebo
+P0528,Back pain,Mild,27,Female,Placebo
+P0528,Diarrhea,Moderate,27,Female,Placebo
+P0529,Fever,Moderate,50,Female,DrugA
+P0530,Insomnia,Mild,51,Female,DrugA
+P0533,Fatigue,Mild,65,Female,DrugB
+P0535,Diarrhea,Moderate,73,Female,DrugA
+P0536,Constipation,Moderate,35,Male,DrugB
+P0536,Vomiting,Moderate,35,Male,DrugB
+P0537,Hypertension,Mild,44,Female,Placebo
+P0538,Insomnia,Mild,30,Male,DrugA
+P0540,Hypertension,Mild,53,Female,DrugA
+P0541,Back pain,Mild,57,Female,DrugA
+P0542,Dizziness,Moderate,32,Male,DrugA
+P0542,Abdominal pain,Moderate,32,Male,DrugA
+P0543,Rash,Mild,38,Male,Placebo
+P0543,Dizziness,Severe,38,Male,Placebo
+P0544,Anxiety,Mild,28,Female,DrugA
+P0544,Fatigue,Mild,28,Female,DrugA
+P0544,Insomnia,Mild,28,Female,DrugA
+P0545,Fatigue,Mild,61,Female,DrugA
+P0545,Vomiting,Moderate,61,Female,DrugA
+P0546,Constipation,Mild,52,Male,DrugA
+P0546,Hypertension,Mild,52,Male,DrugA
+P0546,Cough,Mild,52,Male,DrugA
+P0546,Diarrhea,Mild,52,Male,DrugA
+P0548,Constipation,Mild,56,Male,DrugA
+P0549,Abdominal pain,Severe,65,Male,DrugB
+P0550,Insomnia,Moderate,62,Male,Placebo
+P0550,Hypertension,Mild,62,Male,Placebo
+P0550,Rash,Mild,62,Male,Placebo
+P0550,Cough,Mild,62,Male,Placebo
+P0551,Back pain,Moderate,71,Female,Placebo
+P0552,Cough,Mild,61,Female,Placebo
+P0552,Abdominal pain,Mild,61,Female,Placebo
+P0553,Insomnia,Mild,27,Female,DrugB
+P0553,Back pain,Moderate,27,Female,DrugB
+P0553,Dizziness,Mild,27,Female,DrugB
+P0554,Rash,Severe,31,Male,Placebo
+P0555,Abdominal pain,Mild,21,Female,Placebo
+P0556,Hypertension,Moderate,54,Female,Placebo
+P0556,Constipation,Severe,54,Female,Placebo
+P0558,Back pain,Moderate,63,Male,DrugA
+P0558,Abdominal pain,Mild,63,Male,DrugA
+P0559,Anxiety,Moderate,27,Male,Placebo
+P0560,Cough,Mild,39,Female,DrugB
+P0561,Dizziness,Moderate,23,Female,Placebo
+P0561,Cough,Moderate,23,Female,Placebo
+P0562,Insomnia,Moderate,20,Male,DrugA
+P0564,Nausea,Moderate,42,Male,Placebo
+P0564,Anxiety,Mild,42,Male,Placebo
+P0565,Insomnia,Moderate,42,Male,DrugA
+P0566,Dizziness,Moderate,44,Female,Placebo
+P0567,Constipation,Mild,46,Male,DrugA
+P0567,Anxiety,Severe,46,Male,DrugA
+P0567,Fever,Severe,46,Male,DrugA
+P0568,Anxiety,Severe,37,Female,DrugB
+P0570,Hypertension,Mild,72,Male,DrugA
+P0570,Abdominal pain,Mild,72,Male,DrugA
+P0572,Back pain,Mild,73,Female,DrugA
+P0573,Hypertension,Moderate,46,Male,DrugB
+P0574,Abdominal pain,Mild,25,Female,DrugB
+P0575,Nausea,Mild,28,Male,DrugA
+P0575,Fever,Moderate,28,Male,DrugA
+P0575,Rash,Moderate,28,Male,DrugA
+P0576,Fever,Mild,60,Female,DrugB
+P0577,Rash,Mild,25,Female,Placebo
+P0578,Hypertension,Mild,69,Male,DrugA
+P0579,Fever,Mild,56,Female,DrugA
+P0580,Vomiting,Mild,19,Female,DrugA
+P0581,Diarrhea,Mild,30,Female,DrugA
+P0582,Cough,Moderate,43,Male,DrugB
+P0582,Fatigue,Moderate,43,Male,DrugB
+P0584,Insomnia,Mild,46,Female,DrugB
+P0585,Abdominal pain,Mild,37,Female,Placebo
+P0585,Fever,Moderate,37,Female,Placebo
+P0586,Nausea,Moderate,46,Female,Placebo
+P0587,Nausea,Mild,71,Male,DrugA
+P0588,Hypertension,Moderate,77,Female,Placebo
+P0588,Insomnia,Moderate,77,Female,Placebo
+P0588,Fever,Moderate,77,Female,Placebo
+P0588,Constipation,Mild,77,Female,Placebo
+P0590,Dizziness,Moderate,62,Female,DrugA
+P0590,Hypertension,Moderate,62,Female,DrugA
+P0591,Vomiting,Mild,40,Male,DrugA
+P0591,Diarrhea,Moderate,40,Male,DrugA
+P0592,Headache,Mild,27,Female,DrugB
+P0592,Fever,Moderate,27,Female,DrugB
+P0593,Fatigue,Mild,67,Male,DrugA
+P0593,Constipation,Severe,67,Male,DrugA
+P0593,Anxiety,Moderate,67,Male,DrugA
+P0593,Nausea,Moderate,67,Male,DrugA
+P0595,Dizziness,Mild,57,Male,DrugB
+P0597,Cough,Mild,46,Male,Placebo
+P0597,Abdominal pain,Mild,46,Male,Placebo
+P0597,Diarrhea,Mild,46,Male,Placebo
+P0597,Anxiety,Mild,46,Male,Placebo
+P0598,Diarrhea,Moderate,28,Male,DrugA
+P0599,Insomnia,Severe,71,Female,DrugA
+P0600,Fever,Mild,61,Male,DrugB
+P0600,Back pain,Mild,61,Male,DrugB
+P0600,Cough,Moderate,61,Male,DrugB
+P0603,Rash,Moderate,40,Female,DrugA
+P0605,Hypertension,Moderate,34,Female,Placebo
+P0605,Nausea,Mild,34,Female,Placebo
+P0605,Insomnia,Mild,34,Female,Placebo
+P0612,Fatigue,Mild,38,Male,DrugA
+P0612,Back pain,Moderate,38,Male,DrugA
+P0613,Nausea,Moderate,72,Female,DrugA
+P0614,Fatigue,Moderate,54,Female,DrugA
+P0615,Back pain,Mild,46,Female,DrugA
+P0615,Vomiting,Severe,46,Female,DrugA
+P0616,Dizziness,Mild,26,Female,Placebo
+P0617,Fatigue,Severe,73,Female,Placebo
+P0618,Fever,Mild,46,Male,DrugA
+P0618,Cough,Mild,46,Male,DrugA
+P0621,Fatigue,Mild,57,Male,DrugB
+P0623,Abdominal pain,Mild,76,Female,DrugA
+P0624,Fever,Moderate,61,Female,Placebo
+P0625,Fatigue,Mild,46,Female,Placebo
+P0625,Headache,Moderate,46,Female,Placebo
+P0627,Nausea,Moderate,63,Male,Placebo
+P0628,Nausea,Mild,67,Female,DrugB
+P0628,Insomnia,Mild,67,Female,DrugB
+P0628,Fatigue,Mild,67,Female,DrugB
+P0629,Headache,Moderate,47,Male,Placebo
+P0629,Dizziness,Severe,47,Male,Placebo
+P0629,Hypertension,Moderate,47,Male,Placebo
+P0630,Cough,Moderate,19,Male,Placebo
+P0631,Abdominal pain,Moderate,52,Male,DrugB
+P0631,Fatigue,Mild,52,Male,DrugB
+P0632,Insomnia,Severe,32,Female,Placebo
+P0634,Constipation,Mild,61,Male,Placebo
+P0634,Cough,Moderate,61,Male,Placebo
+P0635,Fever,Mild,39,Male,DrugB
+P0637,Cough,Mild,25,Female,Placebo
+P0638,Cough,Moderate,23,Male,DrugB
+P0638,Anxiety,Moderate,23,Male,DrugB
+P0638,Hypertension,Mild,23,Male,DrugB
+P0639,Constipation,Mild,71,Female,DrugA
+P0639,Fatigue,Moderate,71,Female,DrugA
+P0639,Back pain,Mild,71,Female,DrugA
+P0639,Diarrhea,Severe,71,Female,DrugA
+P0640,Diarrhea,Moderate,53,Male,DrugB
+P0640,Rash,Moderate,53,Male,DrugB
+P0640,Constipation,Mild,53,Male,DrugB
+P0641,Insomnia,Mild,57,Female,DrugA
+P0641,Constipation,Mild,57,Female,DrugA
+P0641,Rash,Mild,57,Female,DrugA
+P0642,Back pain,Mild,41,Female,DrugA
+P0643,Vomiting,Severe,29,Male,DrugB
+P0644,Hypertension,Severe,63,Male,DrugA
+P0645,Headache,Mild,52,Male,DrugB
+P0645,Diarrhea,Mild,52,Male,DrugB
+P0645,Fatigue,Moderate,52,Male,DrugB
+P0647,Dizziness,Moderate,33,Female,DrugA
+P0648,Constipation,Mild,62,Female,DrugB
+P0648,Fever,Moderate,62,Female,DrugB
+P0648,Dizziness,Mild,62,Female,DrugB
+P0648,Headache,Severe,62,Female,DrugB
+P0649,Fever,Moderate,46,Female,DrugB
+P0649,Anxiety,Mild,46,Female,DrugB
+P0649,Rash,Mild,46,Female,DrugB
+P0650,Headache,Mild,48,Female,DrugA
+P0651,Nausea,Mild,59,Female,Placebo
+P0652,Rash,Moderate,50,Female,Placebo
+P0652,Constipation,Mild,50,Female,Placebo
+P0652,Back pain,Moderate,50,Female,Placebo
+P0654,Cough,Moderate,48,Female,Placebo
+P0654,Fatigue,Mild,48,Female,Placebo
+P0655,Diarrhea,Moderate,54,Female,DrugB
+P0655,Abdominal pain,Moderate,54,Female,DrugB
+P0657,Abdominal pain,Mild,35,Male,DrugB
+P0660,Dizziness,Moderate,51,Male,Placebo
+P0661,Insomnia,Mild,41,Female,DrugB
+P0662,Cough,Moderate,68,Male,Placebo
+P0662,Hypertension,Severe,68,Male,Placebo
+P0662,Headache,Mild,68,Male,Placebo
+P0662,Constipation,Severe,68,Male,Placebo
+P0663,Dizziness,Mild,56,Female,DrugA
+P0663,Fever,Mild,56,Female,DrugA
+P0664,Fever,Mild,21,Female,DrugA
+P0665,Abdominal pain,Moderate,43,Female,DrugB
+P0667,Insomnia,Moderate,79,Male,Placebo
+P0667,Abdominal pain,Mild,79,Male,Placebo
+P0667,Back pain,Mild,79,Male,Placebo
+P0668,Headache,Mild,57,Female,DrugA
+P0668,Abdominal pain,Moderate,57,Female,DrugA
+P0669,Cough,Mild,55,Female,Placebo
+P0670,Vomiting,Mild,41,Female,Placebo
+P0670,Abdominal pain,Moderate,41,Female,Placebo
+P0670,Hypertension,Moderate,41,Female,Placebo
+P0671,Dizziness,Mild,30,Female,DrugB
+P0672,Abdominal pain,Mild,62,Male,DrugB
+P0674,Headache,Severe,31,Male,DrugA
+P0675,Fatigue,Moderate,23,Female,DrugB
+P0675,Vomiting,Mild,23,Female,DrugB
+P0675,Constipation,Mild,23,Female,DrugB
+P0675,Headache,Moderate,23,Female,DrugB
+P0676,Constipation,Severe,26,Male,DrugB
+P0676,Diarrhea,Mild,26,Male,DrugB
+P0678,Constipation,Mild,68,Female,DrugB
+P0679,Diarrhea,Mild,47,Female,Placebo
+P0679,Vomiting,Mild,47,Female,Placebo
+P0679,Back pain,Mild,47,Female,Placebo
+P0679,Cough,Moderate,47,Female,Placebo
+P0680,Rash,Mild,55,Male,DrugB
+P0680,Dizziness,Mild,55,Male,DrugB
+P0680,Abdominal pain,Mild,55,Male,DrugB
+P0681,Dizziness,Mild,34,Male,DrugB
+P0682,Headache,Severe,40,Female,DrugA
+P0684,Insomnia,Severe,46,Female,DrugA
+P0684,Anxiety,Moderate,46,Female,DrugA
+P0684,Diarrhea,Mild,46,Female,DrugA
+P0685,Insomnia,Mild,76,Female,DrugA
+P0685,Abdominal pain,Severe,76,Female,DrugA
+P0685,Hypertension,Mild,76,Female,DrugA
+P0686,Back pain,Mild,53,Male,DrugB
+P0686,Cough,Mild,53,Male,DrugB
+P0686,Anxiety,Mild,53,Male,DrugB
+P0687,Anxiety,Mild,61,Female,Placebo
+P0688,Insomnia,Moderate,76,Female,DrugA
+P0689,Hypertension,Moderate,18,Female,DrugB
+P0689,Back pain,Mild,18,Female,DrugB
+P0690,Rash,Moderate,70,Female,DrugA
+P0690,Dizziness,Moderate,70,Female,DrugA
+P0690,Fever,Mild,70,Female,DrugA
+P0692,Constipation,Mild,51,Female,DrugB
+P0692,Vomiting,Moderate,51,Female,DrugB
+P0694,Rash,Mild,61,Female,Placebo
+P0694,Hypertension,Mild,61,Female,Placebo
+P0694,Nausea,Mild,61,Female,Placebo
+P0695,Cough,Moderate,43,Female,DrugA
+P0697,Anxiety,Severe,65,Female,Placebo
+P0697,Diarrhea,Mild,65,Female,Placebo
+P0699,Cough,Moderate,70,Male,DrugA
+P0700,Fatigue,Mild,51,Female,Placebo
+P0701,Vomiting,Mild,49,Male,Placebo
+P0701,Constipation,Mild,49,Male,Placebo
+P0702,Diarrhea,Mild,49,Female,Placebo
+P0703,Hypertension,Mild,57,Female,DrugA
+P0704,Fever,Mild,51,Female,DrugB
+P0708,Rash,Mild,29,Male,DrugB
+P0708,Headache,Mild,29,Male,DrugB
+P0709,Dizziness,Mild,63,Female,DrugA
+P0710,Vomiting,Mild,60,Female,Placebo
+P0711,Hypertension,Moderate,75,Female,DrugA
+P0712,Back pain,Mild,65,Male,DrugB
+P0713,Abdominal pain,Mild,68,Female,DrugB
+P0713,Back pain,Mild,68,Female,DrugB
+P0714,Fatigue,Mild,74,Female,Placebo
+P0715,Vomiting,Mild,37,Female,DrugB
+P0715,Abdominal pain,Mild,37,Female,DrugB
+P0717,Cough,Mild,27,Male,DrugA
+P0718,Rash,Mild,48,Male,DrugA
+P0718,Anxiety,Mild,48,Male,DrugA
+P0719,Rash,Mild,78,Male,DrugB
+P0719,Dizziness,Moderate,78,Male,DrugB
+P0720,Constipation,Moderate,43,Female,DrugB
+P0720,Nausea,Mild,43,Female,DrugB
+P0722,Fatigue,Mild,27,Male,DrugB
+P0722,Fever,Moderate,27,Male,DrugB
+P0722,Vomiting,Moderate,27,Male,DrugB
+P0722,Headache,Moderate,27,Male,DrugB
+P0723,Cough,Mild,74,Male,DrugA
+P0726,Abdominal pain,Mild,75,Female,DrugB
+P0727,Hypertension,Mild,76,Male,DrugB
+P0727,Fatigue,Moderate,76,Male,DrugB
+P0728,Diarrhea,Mild,72,Female,DrugB
+P0728,Insomnia,Mild,72,Female,DrugB
+P0729,Fever,Moderate,68,Female,DrugA
+P0730,Diarrhea,Mild,36,Male,DrugA
+P0730,Cough,Severe,36,Male,DrugA
+P0732,Fever,Mild,77,Female,DrugA
+P0733,Diarrhea,Mild,67,Female,DrugB
+P0736,Dizziness,Mild,66,Male,Placebo
+P0737,Headache,Severe,28,Male,DrugB
+P0737,Diarrhea,Mild,28,Male,DrugB
+P0738,Insomnia,Mild,49,Male,Placebo
+P0739,Abdominal pain,Mild,19,Male,DrugB
+P0741,Insomnia,Severe,79,Male,Placebo
+P0741,Rash,Moderate,79,Male,Placebo
+P0744,Insomnia,Moderate,41,Male,DrugB
+P0745,Back pain,Mild,72,Male,DrugB
+P0746,Cough,Mild,50,Male,DrugA
+P0747,Fever,Severe,23,Male,DrugB
+P0748,Insomnia,Mild,29,Male,DrugA
+P0748,Abdominal pain,Mild,29,Male,DrugA
+P0749,Fever,Mild,40,Male,DrugA
+P0749,Dizziness,Severe,40,Male,DrugA
+P0750,Back pain,Severe,56,Male,DrugB
+P0750,Diarrhea,Mild,56,Male,DrugB
+P0750,Rash,Moderate,56,Male,DrugB
+P0751,Rash,Mild,22,Female,DrugB
+P0753,Back pain,Mild,54,Male,DrugA
+P0753,Rash,Mild,54,Male,DrugA
+P0753,Abdominal pain,Moderate,54,Male,DrugA
+P0754,Fever,Severe,37,Female,DrugA
+P0754,Constipation,Mild,37,Female,DrugA
+P0754,Cough,Mild,37,Female,DrugA
+P0755,Fever,Mild,35,Male,DrugB
+P0756,Headache,Mild,31,Female,Placebo
+P0756,Fatigue,Severe,31,Female,Placebo
+P0757,Constipation,Mild,27,Male,DrugB
+P0757,Abdominal pain,Mild,27,Male,DrugB
+P0757,Nausea,Mild,27,Male,DrugB
+P0757,Dizziness,Severe,27,Male,DrugB
+P0758,Vomiting,Mild,39,Female,Placebo
+P0760,Rash,Moderate,65,Female,DrugB
+P0760,Diarrhea,Mild,65,Female,DrugB
+P0762,Vomiting,Mild,39,Male,DrugB
+P0765,Dizziness,Mild,76,Male,DrugB
+P0767,Fatigue,Mild,61,Male,DrugB
+P0769,Cough,Moderate,35,Female,Placebo
+P0770,Vomiting,Mild,29,Female,DrugB
+P0773,Fatigue,Mild,35,Male,DrugA
+P0773,Cough,Moderate,35,Male,DrugA
+P0774,Insomnia,Moderate,20,Female,DrugB
+P0774,Fatigue,Moderate,20,Female,DrugB
+P0774,Constipation,Mild,20,Female,DrugB
+P0774,Cough,Severe,20,Female,DrugB
+P0775,Hypertension,Severe,42,Female,Placebo
+P0775,Diarrhea,Mild,42,Female,Placebo
+P0776,Constipation,Moderate,50,Male,DrugB
+P0777,Fatigue,Mild,40,Male,DrugA
+P0777,Cough,Mild,40,Male,DrugA
+P0778,Fever,Moderate,39,Male,DrugA
+P0779,Fever,Mild,58,Female,DrugB
+P0780,Insomnia,Moderate,76,Female,DrugB
+P0781,Back pain,Mild,37,Male,DrugA
+P0782,Fatigue,Mild,26,Female,DrugA
+P0782,Anxiety,Mild,26,Female,DrugA
+P0782,Nausea,Mild,26,Female,DrugA
+P0784,Anxiety,Mild,78,Male,DrugB
+P0786,Fatigue,Mild,22,Male,DrugA
+P0789,Anxiety,Moderate,46,Male,DrugB
+P0790,Dizziness,Moderate,49,Female,Placebo
+P0792,Cough,Moderate,41,Male,DrugA
+P0792,Anxiety,Moderate,41,Male,DrugA
+P0793,Dizziness,Mild,59,Male,DrugA
+P0793,Rash,Mild,59,Male,DrugA
+P0793,Constipation,Moderate,59,Male,DrugA
+P0793,Cough,Mild,59,Male,DrugA
+P0794,Insomnia,Moderate,57,Female,Placebo
+P0795,Diarrhea,Mild,38,Male,DrugA
+P0795,Anxiety,Mild,38,Male,DrugA
+P0797,Cough,Mild,73,Female,Placebo
+P0799,Nausea,Mild,31,Female,DrugB
+P0799,Insomnia,Mild,31,Female,DrugB
+P0799,Abdominal pain,Moderate,31,Female,DrugB
+P0799,Diarrhea,Severe,31,Female,DrugB
+P0800,Hypertension,Mild,52,Male,DrugA
+P0800,Nausea,Moderate,52,Male,DrugA
+P0802,Headache,Mild,79,Male,Placebo
+P0804,Anxiety,Mild,38,Male,DrugA
+P0805,Back pain,Moderate,35,Female,Placebo
+P0808,Dizziness,Mild,33,Male,Placebo
+P0808,Headache,Moderate,33,Male,Placebo
+P0809,Fatigue,Moderate,25,Female,DrugA
+P0809,Nausea,Moderate,25,Female,DrugA
+P0810,Diarrhea,Mild,56,Female,Placebo
+P0811,Headache,Mild,62,Male,DrugB
+P0812,Cough,Mild,39,Male,DrugA
+P0812,Hypertension,Mild,39,Male,DrugA
+P0812,Back pain,Severe,39,Male,DrugA
+P0813,Back pain,Mild,70,Female,Placebo
+P0814,Dizziness,Mild,64,Male,Placebo
+P0815,Diarrhea,Mild,35,Female,DrugB
+P0816,Nausea,Mild,76,Female,Placebo
+P0816,Cough,Moderate,76,Female,Placebo
+P0817,Cough,Mild,78,Male,Placebo
+P0817,Back pain,Mild,78,Male,Placebo
+P0819,Insomnia,Moderate,57,Male,Placebo
+P0821,Headache,Moderate,64,Female,DrugB
+P0822,Back pain,Severe,41,Female,DrugA
+P0824,Back pain,Severe,27,Male,DrugA
+P0824,Constipation,Moderate,27,Male,DrugA
+P0825,Constipation,Moderate,69,Female,DrugB
+P0825,Anxiety,Moderate,69,Female,DrugB
+P0825,Insomnia,Mild,69,Female,DrugB
+P0827,Headache,Moderate,27,Male,Placebo
+P0827,Fatigue,Severe,27,Male,Placebo
+P0828,Hypertension,Mild,21,Male,Placebo
+P0828,Cough,Severe,21,Male,Placebo
+P0830,Hypertension,Mild,68,Female,Placebo
+P0830,Diarrhea,Mild,68,Female,Placebo
+P0831,Abdominal pain,Mild,79,Male,Placebo
+P0831,Dizziness,Mild,79,Male,Placebo
+P0831,Constipation,Mild,79,Male,Placebo
+P0832,Hypertension,Moderate,71,Female,DrugA
+P0832,Nausea,Moderate,71,Female,DrugA
+P0832,Anxiety,Mild,71,Female,DrugA
+P0832,Cough,Mild,71,Female,DrugA
+P0833,Rash,Mild,68,Female,DrugA
+P0833,Fatigue,Mild,68,Female,DrugA
+P0833,Diarrhea,Mild,68,Female,DrugA
+P0835,Headache,Moderate,48,Female,DrugA
+P0836,Rash,Severe,25,Female,Placebo
+P0838,Abdominal pain,Mild,55,Female,Placebo
+P0838,Insomnia,Moderate,55,Female,Placebo
+P0839,Constipation,Mild,45,Male,DrugA
+P0840,Abdominal pain,Mild,72,Female,DrugB
+P0841,Nausea,Mild,77,Male,Placebo
+P0841,Cough,Mild,77,Male,Placebo
+P0841,Dizziness,Mild,77,Male,Placebo
+P0841,Headache,Mild,77,Male,Placebo
+P0843,Hypertension,Mild,46,Female,DrugB
+P0843,Rash,Mild,46,Female,DrugB
+P0844,Diarrhea,Moderate,48,Female,DrugA
+P0844,Nausea,Mild,48,Female,DrugA
+P0844,Anxiety,Moderate,48,Female,DrugA
+P0845,Dizziness,Moderate,34,Male,DrugA
+P0845,Cough,Mild,34,Male,DrugA
+P0845,Abdominal pain,Moderate,34,Male,DrugA
+P0846,Rash,Mild,25,Male,DrugA
+P0847,Insomnia,Mild,31,Female,DrugB
+P0848,Dizziness,Mild,34,Female,DrugB
+P0849,Fatigue,Mild,26,Female,DrugB
+P0849,Nausea,Moderate,26,Female,DrugB
+P0850,Insomnia,Mild,64,Male,DrugA
+P0850,Diarrhea,Mild,64,Male,DrugA
+P0851,Dizziness,Mild,34,Male,DrugA
+P0851,Headache,Mild,34,Male,DrugA
+P0851,Anxiety,Moderate,34,Male,DrugA
+P0851,Abdominal pain,Moderate,34,Male,DrugA
+P0852,Anxiety,Mild,26,Male,DrugB
+P0852,Hypertension,Mild,26,Male,DrugB
+P0854,Dizziness,Mild,58,Female,DrugB
+P0854,Insomnia,Mild,58,Female,DrugB
+P0855,Rash,Mild,44,Male,Placebo
+P0857,Fever,Severe,39,Male,DrugB
+P0857,Abdominal pain,Mild,39,Male,DrugB
+P0858,Vomiting,Moderate,42,Male,DrugB
+P0859,Nausea,Mild,18,Female,DrugA
+P0860,Diarrhea,Severe,34,Female,Placebo
+P0860,Anxiety,Mild,34,Female,Placebo
+P0861,Constipation,Severe,48,Female,DrugB
+P0862,Vomiting,Mild,20,Female,DrugB
+P0862,Insomnia,Mild,20,Female,DrugB
+P0863,Diarrhea,Moderate,44,Female,DrugB
+P0864,Hypertension,Severe,22,Male,DrugA
+P0864,Vomiting,Moderate,22,Male,DrugA
+P0864,Fever,Severe,22,Male,DrugA
+P0864,Back pain,Mild,22,Male,DrugA
+P0865,Rash,Mild,43,Male,Placebo
+P0866,Fatigue,Mild,22,Male,Placebo
+P0867,Diarrhea,Mild,78,Female,DrugA
+P0867,Constipation,Moderate,78,Female,DrugA
+P0867,Fever,Mild,78,Female,DrugA
+P0868,Rash,Moderate,72,Female,DrugA
+P0869,Anxiety,Moderate,24,Male,DrugB
+P0870,Hypertension,Mild,40,Male,DrugB
+P0871,Rash,Mild,30,Female,DrugA
+P0872,Back pain,Mild,57,Female,DrugB
+P0872,Nausea,Moderate,57,Female,DrugB
+P0873,Dizziness,Mild,42,Female,Placebo
+P0873,Diarrhea,Moderate,42,Female,Placebo
+P0875,Fatigue,Moderate,57,Male,DrugA
+P0875,Fever,Mild,57,Male,DrugA
+P0878,Dizziness,Mild,70,Female,DrugB
+P0878,Hypertension,Mild,70,Female,DrugB
+P0879,Fatigue,Mild,38,Female,DrugB
+P0879,Anxiety,Mild,38,Female,DrugB
+P0880,Cough,Moderate,28,Female,DrugA
+P0882,Anxiety,Mild,51,Male,Placebo
+P0885,Back pain,Severe,18,Female,Placebo
+P0885,Nausea,Moderate,18,Female,Placebo
+P0887,Fever,Mild,28,Male,DrugB
+P0887,Hypertension,Moderate,28,Male,DrugB
+P0887,Nausea,Mild,28,Male,DrugB
+P0887,Abdominal pain,Moderate,28,Male,DrugB
+P0889,Rash,Mild,22,Female,Placebo
+P0892,Fever,Mild,59,Female,DrugB
+P0893,Anxiety,Moderate,74,Female,DrugB
+P0894,Diarrhea,Moderate,70,Female,DrugA
+P0895,Abdominal pain,Moderate,19,Female,DrugB
+P0897,Fever,Mild,78,Female,DrugA
+P0899,Constipation,Mild,49,Male,DrugA
+P0899,Cough,Moderate,49,Male,DrugA
+P0900,Fever,Mild,54,Female,DrugA
+P0900,Vomiting,Moderate,54,Female,DrugA
+P0900,Nausea,Mild,54,Female,DrugA
+P0900,Headache,Severe,54,Female,DrugA
+P0901,Fever,Severe,23,Male,Placebo
+P0902,Nausea,Mild,51,Male,DrugA
+P0903,Dizziness,Moderate,22,Female,DrugA
+P0903,Rash,Mild,22,Female,DrugA
+P0904,Insomnia,Moderate,50,Female,Placebo
+P0904,Dizziness,Moderate,50,Female,Placebo
+P0905,Cough,Moderate,56,Female,Placebo
+P0906,Nausea,Severe,74,Male,Placebo
+P0907,Fever,Severe,55,Female,Placebo
+P0908,Anxiety,Moderate,31,Female,DrugA
+P0908,Fatigue,Mild,31,Female,DrugA
+P0909,Fatigue,Mild,31,Female,DrugA
+P0909,Fever,Mild,31,Female,DrugA
+P0910,Anxiety,Mild,37,Female,DrugA
+P0913,Anxiety,Mild,53,Female,Placebo
+P0913,Nausea,Moderate,53,Female,Placebo
+P0913,Cough,Mild,53,Female,Placebo
+P0916,Vomiting,Mild,29,Male,DrugA
+P0917,Vomiting,Mild,73,Male,DrugA
+P0917,Back pain,Mild,73,Male,DrugA
+P0917,Headache,Moderate,73,Male,DrugA
+P0918,Vomiting,Mild,33,Female,DrugA
+P0919,Rash,Severe,26,Male,DrugB
+P0920,Cough,Mild,53,Male,Placebo
+P0922,Headache,Mild,78,Male,Placebo
+P0924,Rash,Moderate,74,Female,Placebo
+P0924,Back pain,Moderate,74,Female,Placebo
+P0924,Abdominal pain,Mild,74,Female,Placebo
+P0924,Headache,Mild,74,Female,Placebo
+P0925,Diarrhea,Mild,34,Female,DrugB
+P0927,Diarrhea,Mild,76,Female,Placebo
+P0928,Insomnia,Mild,46,Female,DrugB
+P0928,Anxiety,Moderate,46,Female,DrugB
+P0928,Fatigue,Severe,46,Female,DrugB
+P0929,Abdominal pain,Mild,47,Female,DrugB
+P0929,Diarrhea,Mild,47,Female,DrugB
+P0929,Anxiety,Moderate,47,Female,DrugB
+P0929,Vomiting,Severe,47,Female,DrugB
+P0930,Abdominal pain,Severe,69,Male,DrugA
+P0930,Dizziness,Mild,69,Male,DrugA
+P0930,Vomiting,Moderate,69,Male,DrugA
+P0931,Headache,Severe,54,Male,DrugA
+P0931,Vomiting,Mild,54,Male,DrugA
+P0932,Abdominal pain,Moderate,18,Female,DrugA
+P0932,Vomiting,Mild,18,Female,DrugA
+P0933,Constipation,Severe,20,Male,Placebo
+P0934,Headache,Mild,63,Female,Placebo
+P0934,Constipation,Mild,63,Female,Placebo
+P0936,Dizziness,Severe,71,Male,DrugB
+P0936,Vomiting,Mild,71,Male,DrugB
+P0938,Hypertension,Moderate,53,Male,DrugA
+P0938,Anxiety,Mild,53,Male,DrugA
+P0938,Diarrhea,Moderate,53,Male,DrugA
+P0940,Insomnia,Mild,48,Male,DrugA
+P0945,Fever,Moderate,68,Female,Placebo
+P0945,Anxiety,Mild,68,Female,Placebo
+P0948,Rash,Moderate,75,Female,DrugB
+P0948,Vomiting,Moderate,75,Female,DrugB
+P0949,Headache,Mild,38,Male,Placebo
+P0950,Vomiting,Mild,66,Female,Placebo
+P0950,Back pain,Severe,66,Female,Placebo
+P0950,Anxiety,Moderate,66,Female,Placebo
+P0952,Fatigue,Moderate,50,Female,Placebo
+P0953,Diarrhea,Mild,22,Female,DrugA
+P0956,Cough,Mild,47,Female,DrugA
+P0958,Rash,Moderate,52,Female,DrugA
+P0958,Fatigue,Moderate,52,Female,DrugA
+P0959,Vomiting,Moderate,37,Male,Placebo
+P0959,Hypertension,Mild,37,Male,Placebo
+P0960,Rash,Moderate,77,Male,Placebo
+P0961,Back pain,Severe,18,Female,DrugB
+P0961,Fever,Mild,18,Female,DrugB
+P0961,Vomiting,Severe,18,Female,DrugB
+P0961,Dizziness,Moderate,18,Female,DrugB
+P0962,Insomnia,Moderate,70,Female,Placebo
+P0962,Rash,Mild,70,Female,Placebo
+P0963,Hypertension,Mild,56,Female,DrugA
+P0964,Cough,Mild,65,Male,DrugA
+P0965,Dizziness,Moderate,68,Male,DrugA
+P0965,Fatigue,Moderate,68,Male,DrugA
+P0966,Cough,Severe,43,Male,Placebo
+P0966,Vomiting,Mild,43,Male,Placebo
+P0966,Headache,Mild,43,Male,Placebo
+P0966,Rash,Mild,43,Male,Placebo
+P0967,Constipation,Severe,73,Male,DrugB
+P0968,Nausea,Mild,24,Male,DrugA
+P0970,Abdominal pain,Severe,20,Female,Placebo
+P0971,Constipation,Severe,30,Female,DrugA
+P0972,Abdominal pain,Moderate,59,Female,Placebo
+P0972,Fatigue,Severe,59,Female,Placebo
+P0972,Cough,Severe,59,Female,Placebo
+P0973,Abdominal pain,Moderate,54,Female,DrugA
+P0974,Constipation,Severe,74,Female,DrugB
+P0974,Nausea,Severe,74,Female,DrugB
+P0975,Hypertension,Moderate,23,Female,DrugB
+P0975,Back pain,Severe,23,Female,DrugB
+P0977,Dizziness,Moderate,52,Female,DrugB
+P0978,Fever,Mild,49,Female,DrugA
+P0978,Constipation,Mild,49,Female,DrugA
+P0979,Rash,Moderate,70,Male,Placebo
+P0979,Constipation,Moderate,70,Male,Placebo
+P0981,Rash,Moderate,38,Male,DrugA
+P0982,Abdominal pain,Mild,28,Female,DrugB
+P0983,Fatigue,Mild,22,Male,DrugA
+P0983,Hypertension,Mild,22,Male,DrugA
+P0983,Anxiety,Severe,22,Male,DrugA
+P0984,Vomiting,Moderate,50,Female,DrugB
+P0985,Constipation,Mild,39,Male,DrugA
+P0986,Dizziness,Mild,56,Male,DrugA
+P0987,Anxiety,Mild,47,Female,DrugA
+P0988,Hypertension,Mild,37,Male,DrugB
+P0988,Nausea,Mild,37,Male,DrugB
+P0988,Rash,Mild,37,Male,DrugB
+P0989,Vomiting,Mild,70,Female,DrugB
+P0989,Hypertension,Mild,70,Female,DrugB
+P0991,Nausea,Mild,77,Female,DrugA
+P0992,Cough,Mild,45,Male,DrugA
+P0994,Headache,Severe,40,Female,Placebo
+P0995,Fatigue,Mild,46,Female,DrugA
+P0995,Dizziness,Mild,46,Female,DrugA
+P0996,Dizziness,Mild,56,Female,DrugB
+P0997,Rash,Mild,28,Female,DrugB
+P0997,Nausea,Mild,28,Female,DrugB
+P0997,Fever,Mild,28,Female,DrugB
+P0998,Nausea,Mild,34,Female,DrugA
+P1000,Nausea,Moderate,27,Male,Placebo
